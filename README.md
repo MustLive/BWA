@@ -1,6 +1,6 @@
-Backdoored Web Application v.1.0.1
+Backdoored Web Application v.1.0.2
 
-Copyright (C) MustLive 2012-2014
+Copyright (C) MustLive 2012-2017
 
 http://websecurity.com.ua
 
